@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://playtheoryhq.com/sitemap.xml
+Disallow: /
